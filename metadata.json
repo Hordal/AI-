@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI 패션 피팅",
+  "description": "가상 피팅 애플리케이션입니다. 인물 사진과 의상 사진을 업로드하면 AI가 해당 의상을 입은 인물의 이미지를 생성합니다.",
+  "requestFramePermissions": []
+}
